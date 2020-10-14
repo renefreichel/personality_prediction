@@ -1,3 +1,3 @@
 # personality_prediction
 
-Fun project personality (big 5 scores) from YouTube vlogs (transcripts) using a wide range of features.
+Fun project on predicting personality (big 5 scores) from YouTube vlogs (transcripts) using a wide range of features.
